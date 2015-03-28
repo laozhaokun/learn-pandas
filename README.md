@@ -1,0 +1,1 @@
+* translate the [learn-pandas](https://bitbucket.org/hrojas/learn-pandas) into Chinese
